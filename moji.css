@@ -1,3 +1,4 @@
+ 
 .moji {
     display: inline-block;
     height: 1em;
@@ -8,6 +9,7 @@
     background-position: center center;
     background-size: 1em 1em;
 }
+
 /*flag*/
 .moji-cn {
     background-image: url("./moji/cn.svg")
@@ -42,6 +44,9 @@
 }
 .moji-youtube {
     background-image: url("./moji/youtube.svg")
+}
+.moji-twitch {
+    background-image: url("./moji/twitch.svg")
 }
 /*game*/
 .moji-maimai{

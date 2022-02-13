@@ -59,6 +59,9 @@
 .moji-manjaro {
     background-image: url("./moji/manjaro.svg")
 }
+.moji-archlinux {
+    background-image: url("./moji/archlinux.svg")
+}
 /*language*/
 .moji-python {
     background-image: url("./moji/python.svg")

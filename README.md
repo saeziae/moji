@@ -6,7 +6,7 @@
 ## import
 
 ```html
-<link href="assets/moji.css" rel="stylesheet">
+<link href="https://saeziae.github.io/moji/moji.css" rel="stylesheet">
 ```
 
 ## use
